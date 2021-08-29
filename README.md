@@ -1,5 +1,7 @@
 ### Hi there 👋
-I am working hard to improve my skills as a developer. 
+I am working hard to improve my skills as a developer.
+
+I'm learning Python currently!
 
 <!--
 **ShawnBoyle7/ShawnBoyle7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
