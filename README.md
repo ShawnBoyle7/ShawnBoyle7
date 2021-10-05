@@ -1,5 +1,6 @@
-### Hi there 👋
-I am working hard to improve my skills as a developer.
+## Hello! I'm Shawn.
+
+I'm an aspiring Software Engineer who strives every day to have a better grasp on development than yesterday. 
 
 <!--
 **ShawnBoyle7/ShawnBoyle7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
