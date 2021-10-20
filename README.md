@@ -4,4 +4,4 @@ I'm a Software Engineer. I have a deep desire to understand what makes something
 
 Contact me at Shawn.Boyle01@gmail.com
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ShawnBoyle7&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ShawnBoyle7&count_private=true&theme=tokyonight&showicons=true)](https://github.com/ShawnBoyle7?tab=repositories)
